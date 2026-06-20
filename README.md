@@ -1,7 +1,7 @@
 <img src="https://cdn.jsdelivr.net/gh/ViratiAkiraNandhanReddy/pixel-art-readme-gifs@v1/gifs/hrzn/9586c6fa-686c-4f87-9b1f-132b46322499.gif" width="100%" alt="pixel-art-readme-gifs" style="image-rendering: pixelated;">
 
 ## Hello world, I'm Matteo.
-`Matteo Carabillò | Computer Engineering Student @ Politecnico di Milano | Engineering the architecture of virtual worlds`
+`Matteo Carabillò | CSE Student @ Politecnico di Milano | Engineering the architecture of virtual worlds`
 
 - 🔭 Currently focusing on: Full-stack web development and scalable software architectures.
 - 🌱 Currently learning: Computer graphics, low-level programming and game engine mechanics.
