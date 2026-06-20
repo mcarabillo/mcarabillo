@@ -9,8 +9,8 @@
 ### 👨🏻‍💻 Featured Projects
 #### 🚀 Personal & Ongoing
 - **🗃️ [MediaNexus](https://github.com/mcarabillo/medianexus)**: A media tracker application built with Next.js, Tailwind CSS, TypeScript, and Supabase to keep track of books, films, and video games.
-- **🎙️ Sbobinator**: (early-phase) An AI-assisted audio transcription application designed to optimize lecture notes.
-- **👾 GraPhys Engine**: (early-early-phase) A simple graphical and physical engine, built from scratch to explore new concepts.
+- **🎙️ Sbobinator**: *(early-phase)* An AI-assisted audio transcription application designed to optimize lecture notes.
+- **👾 GraPhys Engine**: *(early-early-phase)* A simple graphical and physical engine, built from scratch to explore new concepts.
 #### 🎓 Academic (Politecnico di Milano)
 - **🔩 [MovHex](https://github.com/mcarabillo/movhex)**: A pathfinding tool built to find the shortest path between hexagonal cells. Focuses on optimization and algorithms.
 - **🎮 [Mesos](https://github.com/mcarabillo/IS26-AM40)**: Digital transposition of the board game Mesos from *Cranio Creations*. Focuses on software architecture and interactions between distributed components.
