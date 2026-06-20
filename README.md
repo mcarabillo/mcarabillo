@@ -13,7 +13,7 @@
 ---
 ### 🛠️ Tech Stack
 
-Here are the tools and languages I use daily for my academic and personal projects, along with what I'm currently learning.
+Here are the tools and languages I use for my academic and personal projects, along with what I'm currently learning.
 
 | Area | Technologies |
 | --- | --- |
