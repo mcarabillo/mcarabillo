@@ -14,7 +14,7 @@
 #### 🎓 Academic (Politecnico di Milano)
 - **🔩 [MovHex](https://github.com/mcarabillo/movhex)**: A pathfinding tool built to find the shortest path between hexagonal cells. Focuses on optimization and algorithms.
 - **🎮 [Mesos](https://github.com/mcarabillo/IS26-AM40)**: Digital transposition of the board game Mesos from *Cranio Creations*. Focuses on software architecture and interactions between distributed components.
-- **🌐 [Project Management Website](https://github.com/mcarabillo/tiw-project)**: A full-stack web application to assign, manage, and record working tasks and hours. Focuses on security and web development best practices.
+- **🌐 Project Management Website**: A full-stack web application to assign, manage, and record working tasks and hours. Focuses on security and web development best practices.
 - **⚙️ Hardware Module**: A memory module designed in VHDL and synthesized in Vivado. Focuses on low-level digital logic and FPGA design.
 ---
 ### 🛠️ Tech Stack
